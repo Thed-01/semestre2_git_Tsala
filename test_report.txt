@@ -1,0 +1,20 @@
+## Rapport de Test Frontend
+
+Date: 26/06/2025 (ou la date actuelle)
+Testeur: Ton Nom Complet
+
+---
+
+**Résultats des Tests :**
+
+* **Structure HTML :** Vérifiée sur `index.html`, `services.html`, `contact.html`. Tous les éléments sont présents et correctement liés. **[PASSED]**
+* **Style CSS :** Le fichier `style.css` est bien appliqué. Les couleurs de fond, polices, styles de navigation et alignements sont conformes. **[PASSED]**
+* **Fonctionnalités JavaScript :**
+    * Message "Le script JavaScript est chargé..." apparaît dans la console du navigateur. **[PASSED]**
+    * L'alerte "Vous avez cliqué sur..." se déclenche au clic sur les liens de navigation. **[PASSED]**
+    * Le changement de couleur de fond automatique fonctionne. **[PASSED]**
+
+---
+
+**Conclusion :**
+L'intégration des différentes fonctionnalités frontend sur la branche `test/frontend` est réussie. Le site est stable et fonctionnel. Prêt pour la promotion vers `dev`.
